@@ -9,9 +9,8 @@ Code Replication
 To replicate our analysis, follow these steps:
 
 ## Create a new notebook in Google Colab.
-```
+- Create a new notebook in Google Collab
+- Copy the first 10 lines of the code into the first block
+- Run the first block and then upload the CSV file as instructed
+- Copy the remaining code to see the graphs
 
-- Copy the first 10 lines of the code into the initial block.
-- Run the first block and upload the CSV file as instructed.
-- Copy the remaining code to visualize the graph
-```
